@@ -11,16 +11,15 @@
 
 ## 使用方法
 
-LSPosed开启本模块，勾选System Framework和Android Auto,安装你喜爱的启动器,并在模块设置中填写包名。
-建议设置Dpi，会对使用应用上下文绘制UI的叼毛应用得到改善。
-添加Properties参数，可对Android Auto的配置进行Hook修改。
-自动绕过Android Auto对AA应用本身的检测。
-Root权限仅对用户配置的Shell命令执行使用,若无需求可不给。
+- LSPosed开启本模块，勾选System Framework和Android Auto,安装你喜爱的启动器,并在模块设置中填写包名。
+- 建议设置Dpi，会对使用应用上下文绘制UI的叼毛应用得到改善。
+- 添加Properties参数，可对Android Auto的配置进行Hook修改。
+- 自动绕过Android Auto对AA应用本身的检测。
+- Root权限仅对用户配置的Shell命令执行使用,若无需求可不给。
 
 ## 免责声明
 
-- 使用本模块即代表愿意承担一切后果。
-- 任何由本项目衍生出的项目本项目不承担任何责任。
+- 使用本模块即代表愿意承担一切后果。 - 任何由本项目衍生出的项目本项目不承担任何责任。
 - 本项目保证永久开源，欢迎提交 Issue 或者 Pull Request，但是请不要提交用于非法用途的功能。
 - 开发者可能在任何时间**停止更新**或**删除项目**。
 
