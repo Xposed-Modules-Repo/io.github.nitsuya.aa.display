@@ -1,11 +1,5 @@
-<div align="center">
-    <h1> AADisplay </h1>
-[![license](https://img.shields.io/github/license/teble/AADisplay.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![GitHub release](https://img.shields.io/github/release/teble/AADisplay.svg)](https://github.com/Nitsuya/AADisplay/latest)
-</div>
 
 让Android Auto显示任意应用, 基于VirtualDisplay的套娃方案
-
 
 -----
 
